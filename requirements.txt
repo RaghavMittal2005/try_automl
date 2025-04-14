@@ -1,0 +1,12 @@
+streamlit
+numpy
+pandas
+ipykernel
+scikit-learn
+flask
+seaborn
+matplotlib
+memory_profiler
+tensorflow==2.19.0
+joblib
+opencv-python
